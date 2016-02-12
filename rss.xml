@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Caustic Sofa]]></title>
         <description><![CDATA[Caustic Sofa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/caustic-sofa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 21:12:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 10:45:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/caustic-sofa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Me on 'equality of opportunity'. (Spoiler: I don't think it can really ever happen): http://brightblue.org.uk/index.php/centrewrite/item/544-mark-stockwell-can-we-really-achieve-real-equality-of-opportunity-for-all</p>]]></description>
+            <link>https://thegrid.ai/caustic-sofa/ed79e190-f694-4524-8a67-b2568a08b72e/index.html</link>
+            <guid isPermaLink="false">ed79e190-f694-4524-8a67-b2568a08b72e</guid>
+            <pubDate>Fri, 12 Feb 2016 10:44:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction]]></title>
-            <description><![CDATA[<article><h1>Introduction</h1><p>I'm Mark. Follow me on Twitter at https://twitter.com/Mark_Stockwell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/997cf1a1a2207a7f7ae2e0750ebf74ab772e828a.jpg"></article>]]></description>
-            <link>undefinedintroduction/index.html</link>
+            <description><![CDATA[<article><h1>Introduction</h1><p>I'm Mark. Follow me on Twitter at https://twitter.com/Mark_Stockwell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c50d5e7d7f98dc74194bcbee33ef1617998820d9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/caustic-sofa/introduction/index.html</link>
             <guid isPermaLink="false">55cc6505-5a26-4037-90d8-057690d555bb</guid>
             <pubDate>Tue, 05 Jan 2016 21:11:58 GMT</pubDate>
         </item>
